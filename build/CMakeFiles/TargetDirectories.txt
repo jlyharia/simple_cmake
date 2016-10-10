@@ -1,0 +1,3 @@
+/Users/yilee/Code/johnny/simple_cmake/build/CMakeFiles/edit_cache.dir
+/Users/yilee/Code/johnny/simple_cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/yilee/Code/johnny/simple_cmake/build/CMakeFiles/a.out.dir
